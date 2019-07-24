@@ -1,5 +1,5 @@
 package A;
 
 public class fruit {
-	a
+Long
 }
